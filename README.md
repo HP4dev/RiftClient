@@ -3,4 +3,4 @@ Rift Client is a launcher for Minecraft: Java Edition with fabric client mod tha
 ![Rift Client](assets/rift-client.png)
 ----------------------------------------
 # JOIN THE DISCORD FOR UPDATES 
-https://discord.gg/T26z2sJ8Nu
+- https://discord.gg/T26z2sJ8Nu
