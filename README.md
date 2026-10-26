@@ -1,5 +1,5 @@
 # Rift Client
-Rift Client is a launcher for Minecraft: Java Edition
+## Rift Client is a launcher for Minecraft: Java Edition
 ![Rift Client](assets/RiftClient_NOTFINALIZED.png)
 
 the Client features Varity of Built-in Mods like PVP, Visual, Utility
